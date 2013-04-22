@@ -1,3 +1,4 @@
+1304.5242, "Hα to FUV ratios in resolved star forming region populations of nearby spiral galaxies", Hermanowicz et al.
 1304.4239, "The metallicity evolution of low mass galaxies: New constraints at intermediate redshift", Henry et al.
 1304.4256, "A Dust-Obscured Massive Maximum-Starburst Galaxy at a Redshift of 6.34", Riechers et al.
 1304.3936, "The redshift-evolution of the distribution of star formation among dark matter halos as seen in the infrared", Bethermin et al.
