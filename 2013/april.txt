@@ -1,3 +1,4 @@
+1211.5805, "Probabilistic Catalogs for Crowded Stellar Fields", Brewer et al.
 1304.6080, "Segue 2: The Least Massive Galaxy", Kirby et al.
 1302.1587, "Redshift 6.4 host galaxies of 10^8 solar mass black holes: low star formation rate and dynamical mass", Willott et al.
 1210.6046, " The Space Motion of Leo I: The Mass of the Milky Way's Dark Matter Halo", Boylan-Kolchin et al.
