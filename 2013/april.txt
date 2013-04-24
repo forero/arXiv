@@ -1,3 +1,6 @@
+1304.6080, "Segue 2: The Least Massive Galaxy", Kirby et al.
+1302.1587, "Redshift 6.4 host galaxies of 10^8 solar mass black holes: low star formation rate and dynamical mass", Willott et al.
+1210.6046, " The Space Motion of Leo I: The Mass of the Milky Way's Dark Matter Halo", Boylan-Kolchin et al.
 1304.5242, "Hα to FUV ratios in resolved star forming region populations of nearby spiral galaxies", Hermanowicz et al.
 1304.4239, "The metallicity evolution of low mass galaxies: New constraints at intermediate redshift", Henry et al.
 1304.4256, "A Dust-Obscured Massive Maximum-Starburst Galaxy at a Redshift of 6.34", Riechers et al.
