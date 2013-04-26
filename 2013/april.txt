@@ -1,3 +1,6 @@
+
+1304.7000, "On the redshift evolution (0 < z < 4) of dust attenuation and of the total (UV+IR) star formation rate density", Burgarella et al.
+1304.6780, "Practices in source code sharing in astrophysics", Shamir et al.
 1304.6429, "Star Formation in High-Redshift Starburst Galaxies", Narayanan
 1304.6404, "The spectral evolution of the first galaxies. II. Spectral signatures of Lyman continuum leakage from galaxies in the reionization epoch", Zackrisson et al.
 1304.6565, " Simulating Structure Formation of the Local Universe", Hess et al.
