@@ -1,3 +1,6 @@
+1304.7769, "The Stellar Initial Mass Function of Ultra-Faint Dwarf Galaxies: Evidence for IMF Variations with Galactic Environment", Geha et al.
+1304.7762, " Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies", Kormendy and Ho
+1304.2884, " Evidence for a ~300 Mpc Scale Under-density in the Galaxy Distribution", Keenan et al.
 1304.7000, "On the redshift evolution (0 < z < 4) of dust attenuation and of the total (UV+IR) star formation rate density", Burgarella et al.
 1304.6780, "Practices in source code sharing in astrophysics", Shamir et al.
 1304.6429, "Star Formation in High-Redshift Starburst Galaxies", Narayanan
