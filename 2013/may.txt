@@ -1,2 +1,3 @@
 1303.0674, "On the Spin Bias of Satellite Galaxies in the Local Group-like Environment", Lee & Lemson
 1305.0350, "Detection of galaxy assembly bias", Wang et al.
+1211.2825, "A physical model for the 0 < z < 8 redshift evolution of the galaxy UV luminosity and stellar mass functions", Tacchella et al.
