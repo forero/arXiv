@@ -1,3 +1,4 @@
+1305.5495, "On the Importance of Conceptual Thinking Outside the Simulation Box", Loeb
 1211.0548, "Supermassive Seeds for Supermassive Black Holes", Johnson et al.
 1305.4613, "A Maximum Likelihood Approach to Estimating Correlation Functions", Jones Baxter and Rozo
 1302.7042, "Lyman alpha line and continuum radiative transfer in a clumpy interstellar medium", Duval et al.
