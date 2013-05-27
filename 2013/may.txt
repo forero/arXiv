@@ -1,3 +1,8 @@
+1305.5548, "Modeling the Phase-Space Distribution around Massive Halos", Lam et al.
+1305.4932, "Warm Ionized Gas Revealed in the Magellanic Bridge Tidal Remnant: Constraining the Baryon Content and the Escaping Ionizing Photons around Dwarf Galaxies", Barger et al.
+1304.0455, "A highly elongated prominent lens at z=0.87: first strong lensing analysis of El Gordo", Zitrin et al.
+1305.5830, "Bias deconstructed: Unravelling the scale dependence of halo bias using real space measurements", Paranjape et al.
+1305.5791, "Intrinsic galaxy shapes and alignments II: Modelling the intrinsic alignment contamination of weak lensing surveys", Joachimi et al.
 1305.5495, "On the Importance of Conceptual Thinking Outside the Simulation Box", Loeb
 1211.0548, "Supermassive Seeds for Supermassive Black Holes", Johnson et al.
 1305.4613, "A Maximum Likelihood Approach to Estimating Correlation Functions", Jones Baxter and Rozo
