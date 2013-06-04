@@ -1,0 +1,4 @@
+1306.0419, "Far-Ultraviolet Observations of Outflows from IR-Luminous Galaxies", Leitherer et al.
+1304.2785, "Inflationary paradigm in trouble after Planck2013", Ijjas et al.
+1306.0091, "Cosmography of the Local Universe", Courtois et al.
+1306.0015, "Weak lensing detection of intra-cluster filaments with ground based data", Maturi & Merten
