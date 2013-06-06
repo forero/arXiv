@@ -1,3 +1,6 @@
+1306.0913, "Cold dark matter: controversies on small scales", Weinnberg et al.
+1306.0920, "Effects of Lyman alpha scattering in the IGM on clustering statistics of Lyman alpha emitters", Behrens and Niemeyer 
+1306.0650, "An Empirical Model for the Star Formation History in Dark Matter Halos", Lu et al.
 1306.0419, "Far-Ultraviolet Observations of Outflows from IR-Luminous Galaxies", Leitherer et al.
 1304.2785, "Inflationary paradigm in trouble after Planck2013", Ijjas et al.
 1306.0091, "Cosmography of the Local Universe", Courtois et al.
