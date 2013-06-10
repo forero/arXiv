@@ -1,3 +1,4 @@
+1306.1535, "Narrowband Lyman-Continuum Imaging of Galaxies at z ~ 2.85", Mostardi et al.
 1306.0913, "Cold dark matter: controversies on small scales", Weinnberg et al.
 1306.0920, "Effects of Lyman alpha scattering in the IGM on clustering statistics of Lyman alpha emitters", Behrens and Niemeyer 
 1306.0650, "An Empirical Model for the Star Formation History in Dark Matter Halos", Lu et al.
