@@ -1,3 +1,11 @@
+1304.6696, "Studying Inter-Cluster Galaxy Filaments Through Stacking GMBCG Galaxy Cluster Pairs", Zhang et al.
+1306.3990, "Stellar mass-gap as a probe of halo assembly history and concentration: youth hidden among old fossils", Deason et al.
+1306.4425, "Jeans instability criterion modified by external tidal field", Jog
+1306.4328, "The Massive Satellite Population of Milky-Way Sized Galaxies", Rodriguez-Puebla et al.
+1306.3722, "A new parameter space study of cosmological microlensing", Vernardos and Fluke
+1306.3958, "High resolution near-infrared imaging of submillimeter galaxies", Aguirre et al.
+1306.1570, "The X-ray Spectral Evolution of Galactic Black Hole X-ray Binaries Toward Quiescence", Plotkin et al.
+1303.4361, "Self-Replicating Three-Dimensional Vortices in Neutrally-Stable Stratified Rotating Shear Flows", Marcus et al.
 1306.1535, "Narrowband Lyman-Continuum Imaging of Galaxies at z ~ 2.85", Mostardi et al.
 1306.0913, "Cold dark matter: controversies on small scales", Weinnberg et al.
 1306.0920, "Effects of Lyman alpha scattering in the IGM on clustering statistics of Lyman alpha emitters", Behrens and Niemeyer 
