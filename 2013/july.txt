@@ -1,1 +1,2 @@
+1307.3219, "Inferring the Andromeda Galaxy's mass from its giant southern stream with Bayesian simulation sampling", Fardal et al.
 1303.0027, "Physical Properties of Spectroscopically-Confirmed Galaxies at z >= 6. II. Morphology of the Rest-Frame UV Continuum and Lyman-alpha Emission", Jihang et al.
