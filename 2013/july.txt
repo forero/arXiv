@@ -1,2 +1,9 @@
+1307.6210, "Dwarf Galaxy Planes: the discovery of symmetric structures in the Local Group", Pawlowski et al.
+1307.7376, "Multiversality", Wilczek
+1203.3816, "Computational statistics using the Bayesian Inference Engine", Weinberg
+1301.2670, "What's Up in the Milky Way? The Orientation of the Disc Relative to the Triaxial Halo", Debattista et al.
+1307.7182, "Assembly of filamentary void galaxy configurations", Rieder et al.
+1307.7213, "Cosmicflows-2: The Data", Tully et al.
+1307.5312, "Roadmap for Ultra-High Energy Cosmic Ray Physics and Astronomy (whitepaper for Snowmass 2013)", Anchordoqui et al.
 1307.3219, "Inferring the Andromeda Galaxy's mass from its giant southern stream with Bayesian simulation sampling", Fardal et al.
 1303.0027, "Physical Properties of Spectroscopically-Confirmed Galaxies at z >= 6. II. Morphology of the Rest-Frame UV Continuum and Lyman-alpha Emission", Jihang et al.
