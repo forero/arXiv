@@ -1,3 +1,5 @@
+1307.8116, "A new code for orbit analysis and Schwarzschild modelling
+of triaxial stellar systems", Vasiliev et al.
 1307.6210, "Dwarf Galaxy Planes: the discovery of symmetric structures in the Local Group", Pawlowski et al.
 1307.7376, "Multiversality", Wilczek
 1203.3816, "Computational statistics using the Bayesian Inference Engine", Weinberg
