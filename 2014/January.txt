@@ -1,2 +1,8 @@
-1401.0586, "Hot Accretion Flows Around Black Holes",  Yuan and Narayan
-1401.0706, "A clear and measurable signature of modified gravity in the galaxy velocity field", Wolciech et al.
+1401.0586, "Hot Accretion Flows Around Black Holes",  Yuan and Narayan, REF
+1401.0706, "A clear and measurable signature of modified gravity in the galaxy velocity field", Wolciech et al., RES
+1401.4469, "A cosmic web filament revealed in Lyman-alpha emission around a luminous high-redshift quasar", Cantalupo et al., RES
+1401.5466, "The Zeldovich approximation", White, REF
+1401.5513, " The Right Side of Einstein's Equation", Spiegel, REF
+1401.5473,"Ultra Low Surface Brightness Imaging with the Dragonfly Telephoto Array", Abraham and van Dokkum, NEW
+1401.5467, "First results from the Dragonfly Telephoto Array: the apparent lack of a stellar halo in the massive spiral galaxy M101", van Dokkum et al, NEW
+1401.5687, "X-Ray Luminous Binaries, Metallicity, and the Early Universe", Kaaret, RES
