@@ -6,4 +6,8 @@
 1401.5473,"Ultra Low Surface Brightness Imaging with the Dragonfly Telephoto Array", Abraham and van Dokkum, NEW
 1401.5467, "First results from the Dragonfly Telephoto Array: the apparent lack of a stellar halo in the massive spiral galaxy M101", van Dokkum et al, NEW
 1401.5687, "X-Ray Luminous Binaries, Metallicity, and the Early Universe", Kaaret, RES
-1401.5797, "A new fitting-function to describe the time evolution of a galaxy's gravitational potential", Buist and Helmi
+1401.5797, "A new fitting-function to describe the time evolution of a galaxy's gravitational potential", Buist and Helmi, RES
+1401.7973, "The value of H_0 in the inhomogeneous Universe", Ben-Dayan et al, NEW
+1401.7676, "Evolution in the Escape Fraction of Ionizing Photons and the Decline in Strong Lya Emission from z>6 Galaxies", Dijkstra et al., RES
+1401.7902, "NEWS : a new spherical gas detector for very low mass WIMP detection", Gerbier et al., NEW
+1401.7866, "Evolution of the cosmic web", Cautun et al., RES
