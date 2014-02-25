@@ -5,3 +5,4 @@
 1402.4816, "IGM Emission Observations with the Cosmic Web Imager: I. The Circum-QSO Medium of QSO 1549+19, and Evidence for a Filamentary Gas Inflow", Martin et al., RES
 1402.5227, "Galactic winds and stellar populations in Lyman α emitting galaxies at z ~ 3.1", McLinden et al., RES
 1402.5142, "The remnant of a merger between two dwarf galaxies in Andromeda II", Amorisco et al., RES
+1402.5429, "Evidence for a Lower Value for H0 from Cosmic Chronometers Data?", Busti et al., NEW
