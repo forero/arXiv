@@ -6,3 +6,6 @@
 1402.5227, "Galactic winds and stellar populations in Lyman α emitting galaxies at z ~ 3.1", McLinden et al., RES
 1402.5142, "The remnant of a merger between two dwarf galaxies in Andromeda II", Amorisco et al., RES
 1402.5429, "Evidence for a Lower Value for H0 from Cosmic Chronometers Data?", Busti et al., NEW
+1402.6335, "A submillimeter galaxy illuminating its circumgalactic medium: Ly-alpha scattering in a cold, clumpy outflow", Geach et al, RES
+1402.6566, "On the recovery of Local Group motion from galaxy redshift surveys", Nusser et al, NEW
+1402.6614, "Giving Cosmic Redshift Drift a Whirl", Kim et al., NEW
