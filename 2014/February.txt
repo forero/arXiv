@@ -9,3 +9,9 @@
 1402.6335, "A submillimeter galaxy illuminating its circumgalactic medium: Ly-alpha scattering in a cold, clumpy outflow", Geach et al, RES
 1402.6566, "On the recovery of Local Group motion from galaxy redshift surveys", Nusser et al, NEW
 1402.6614, "Giving Cosmic Redshift Drift a Whirl", Kim et al., NEW
+1402.6697, "A 10 deg2 Lyman-α survey at z=8.8 with spectroscopic follow-up: strong constraints on the LF and implications for other surveys", Matthee et al, RES
+1402.6980, "Inflationary schism after Planck2013", Ijjas et al, NEW
+1402.6983, "Estimating Cosmological Parameter Covariance", Taylor and Joachimi, RES
+1402.6706, "Airships: A New Horizon for Science", Miller et al., NEW
+1402.6703, "The Characterization of the Gamma-Ray Signal from the Central Milky Way: A Compelling Case for Annihilating Dark Matter", Daylan et al, RES
+1402.6995, "Super-Critical Growth of Massive Black Holes from Stellar-Mass Seeds", Madau et al, RES
