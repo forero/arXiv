@@ -3,3 +3,4 @@
 1403.0254, "Chaotic enhancement of dark matter density in binary
 systems and galaxies", Rollin et al., RES
 1403.0247, "Imaging the environment of a z = 6.3 submillimeter galaxy with SCUBA-2", Robson et al., RES
+1403.0732, "Diffuse Lyα Halos around Galaxies at z=2.2−6.6: Implications for Galaxy Formation and Cosmic Reionization", Momose et al., RES
