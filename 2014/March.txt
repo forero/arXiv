@@ -6,3 +6,7 @@ systems and galaxies", Rollin et al., RES
 1403.0732, "Diffuse Lyα Halos around Galaxies at z=2.2−6.6: Implications for Galaxy Formation and Cosmic Reionization", Momose et al., RES
 1403.1041, "RingFinder: automated detection of galaxy-scale gravitational lenses in ground-based multi-filter imaging data", Gavazzi et al., NEW
 1403.1063, "A PCA-based automated finder for galaxy-scale strong lenses", Joseph et al., NEW
+1403.1271, "SCoPE: An efficient method of Cosmological Parameter Estimation", Das and Sourdadeep, NEW
+1403.1259, "Measuring the growth of matter fluctuations with third-order galaxy correlations", Hoffmann et al, NEW
+1403.1537, "Ya. B. Zeldovich (1914-1987): Chemist, Nuclear Physicist, Cosmologist", Sahni, REF
+1403.1260, "Cosmology: from theory to data, from data to theory", Leclercq et al, NEW
