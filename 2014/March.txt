@@ -16,3 +16,4 @@ systems and galaxies", Rollin et al., RES
 1403.2783, "The Evolution of Galaxy Structure over Cosmic Time", Conselice, REF
 1403.2720, "Measuring the power spectrum of dark matter substructure using strong gravitational lensing", Hezaveh et al, NEW
 1403.2728, "Mergers drive spin swings along the cosmic web", Welker et al., RES
+1403.3667, "A Council of Giants", McCall, RES
