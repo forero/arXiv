@@ -17,3 +17,5 @@ systems and galaxies", Rollin et al., RES
 1403.2720, "Measuring the power spectrum of dark matter substructure using strong gravitational lensing", Hezaveh et al, NEW
 1403.2728, "Mergers drive spin swings along the cosmic web", Welker et al., RES
 1403.3667, "A Council of Giants", McCall, RES
+1403.3693, "The VIMOS Ultra-Deep Survey (VUDS): fast increase of the fraction of strong Lyman alpha emitters from z=2 to z=6", Cassata et al, RES
+1403.4295, "UV Luminosity Functions at redshifts z~4 to z~10: 11000 Galaxies from HST Legacy Fields", Bouwens et al., RES
