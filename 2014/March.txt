@@ -19,3 +19,6 @@ systems and galaxies", Rollin et al., RES
 1403.3667, "A Council of Giants", McCall, RES
 1403.3693, "The VIMOS Ultra-Deep Survey (VUDS): fast increase of the fraction of strong Lyman alpha emitters from z=2 to z=6", Cassata et al, RES
 1403.4295, "UV Luminosity Functions at redshifts z~4 to z~10: 11000 Galaxies from HST Legacy Fields", Bouwens et al., RES
+1403.4620, "The Co-Evolution of Galaxies and Supermassive Black Holes: Insights from Surveys of the Contemporary Universe", Heckman and Best, REF
+1403.4945, "The PAndAS Field of Streams: stellar structures in the Milky Way halo toward Andromeda and Triangulum", Martin et al, RES
+1403.4935, "Spectral Energy Distribution Fitting of HETDEX Pilot Survey Lyman-alpha Emitters in COSMOS and GOODS-N", Hagen et al., RES
