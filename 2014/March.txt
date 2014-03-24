@@ -22,3 +22,5 @@ systems and galaxies", Rollin et al., RES
 1403.4620, "The Co-Evolution of Galaxies and Supermassive Black Holes: Insights from Surveys of the Contemporary Universe", Heckman and Best, REF
 1403.4945, "The PAndAS Field of Streams: stellar structures in the Milky Way halo toward Andromeda and Triangulum", Martin et al, RES
 1403.4935, "Spectral Energy Distribution Fitting of HETDEX Pilot Survey Lyman-alpha Emitters in COSMOS and GOODS-N", Hagen et al., RES
+1403.5466, "New observations of z~7 galaxies: evidence for a patchy reionization", Pentericci et al., RES
+1403.5270, "The Theoretical Astrophysical Observatory: Cloud-Based Mock Galaxy Catalogues", Bernyk et al., RES
