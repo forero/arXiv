@@ -24,3 +24,6 @@ systems and galaxies", Rollin et al., RES
 1403.4935, "Spectral Energy Distribution Fitting of HETDEX Pilot Survey Lyman-alpha Emitters in COSMOS and GOODS-N", Hagen et al., RES
 1403.5466, "New observations of z~7 galaxies: evidence for a patchy reionization", Pentericci et al., RES
 1403.5270, "The Theoretical Astrophysical Observatory: Cloud-Based Mock Galaxy Catalogues", Bernyk et al., RES
+1403.6198, "Steadily Increasing Star Formation Rates in Galaxies Observed at 3 <~ z <~ 5 in the CANDELS/GOODS-S Field", Lee et al., RES
+1403.6146, "On the relation between sSFR and metallicity",  Pipino et al., RES
+
