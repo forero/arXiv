@@ -26,4 +26,8 @@ systems and galaxies", Rollin et al., RES
 1403.5270, "The Theoretical Astrophysical Observatory: Cloud-Based Mock Galaxy Catalogues", Bernyk et al., RES
 1403.6198, "Steadily Increasing Star Formation Rates in Galaxies Observed at 3 <~ z <~ 5 in the CANDELS/GOODS-S Field", Lee et al., RES
 1403.6146, "On the relation between sSFR and metallicity",  Pipino et al., RES
-
+1403.6720, "Improving Dark Matter Axion Searches with Active Resonators", Ryba, NEW
+1403.6492, "A Fast Route to Non-Linear Clustering Statistics in Modified Gravity Theories", Winther and Ferreira, NEW
+1403.6768, "Can primordial magnetic fields be the origin of the BICEP2 data?", Bonvin et al., NEW
+1403.6681, "Quantum telescopes", Kellerer, FUN
+1403.6469, "M31 Satellite Masses Compared to LCDM Subhaloes", Tollerud et al, RES 
