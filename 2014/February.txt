@@ -15,3 +15,4 @@
 1402.6706, "Airships: A New Horizon for Science", Miller et al., NEW
 1402.6703, "The Characterization of the Gamma-Ray Signal from the Central Milky Way: A Compelling Case for Annihilating Dark Matter", Daylan et al, RES
 1402.6995, "Super-Critical Growth of Massive Black Holes from Stellar-Mass Seeds", Madau et al, RES
+1402.2976, "On the universality of void density profiles", Ricciardelli et al., RES
